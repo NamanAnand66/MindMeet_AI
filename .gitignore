@@ -5,21 +5,3 @@ dist/
 .DS_Store
 npm-debug.log*
 
-# Ignore all files in the following folders except their .gitkeep files
-backend/controllers/*
-!backend/controllers/.gitkeep
-
-backend/middlewares/*
-!backend/middlewares/.gitkeep
-
-database/*
-!database/.gitkeep
-
-frontend/src/hooks/*
-!frontend/src/hooks/.gitkeep
-
-frontend/src/components/*
-!frontend/src/components/.gitkeep
-
-frontend/src/pages/*
-!frontend/src/pages/.gitkeep
